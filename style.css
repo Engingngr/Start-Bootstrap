@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+}
+
+#nav {
+  background-color: rgb(44, 62, 80) !important;
+  padding-top: 1.5rem !important;
+  padding-bottom: 1.5rem !important;
+}
+
+.bg{
+  background-color: rgb(26, 188, 156) !important;
+}
+
+
+#portfolio {
+  color: rgba(44, 62, 80, 1) !important;
+  font-size: 4rem !important;
+}
+
+.btn-xl {
+  padding: 1.75rem !important;
+  font-size: 1.25rem !important;
+}
+
+.color {
+  background-color: rgb(44, 62, 80);
+}
+
+#link {
+  color: rgb(26, 188, 156) !important;
+}
+
+.copyright {
+  background-color: rgb(26, 37, 47);
+}
